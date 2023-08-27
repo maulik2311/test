@@ -1,0 +1,7 @@
+{{#user}}
+Name: Maulik Devani
+Skills: DevOps,AWS,Linux
+Email: maulikd2397@gmail.com
+{{/user}}
+
+
